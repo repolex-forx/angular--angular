@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/angular/angular/commit/ac8b5ff9382ee92761c414098a3295cd8d1cd519",
+  "@type": "git:Commit",
+  "git:hexsha": "ac8b5ff9382ee92761c414098a3295cd8d1cd519",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/angular/angular"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/ac8b5ff9382ee92761c414098a3295cd8d1cd519.nq.gz",
+      "repolex:graphFileSize": 2830873
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 37096189
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 7324
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 61653
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-09-28T08:36:18.172005+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "zone.js-0.16.1"
+}
