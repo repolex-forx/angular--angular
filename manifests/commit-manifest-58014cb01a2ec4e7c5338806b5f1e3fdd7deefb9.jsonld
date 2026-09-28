@@ -17,23 +17,23 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "commit",
       "repolex:graphFilePath": "commit/commit.nq.gz",
-      "repolex:graphFileSize": 37135001
+      "repolex:graphFileSize": 37139164
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "branch",
       "repolex:graphFilePath": "branch/branch.nq.gz",
-      "repolex:graphFileSize": 7271
+      "repolex:graphFileSize": 7391
     },
     {
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 61691
+      "repolex:graphFileSize": 61664
     }
   ],
   "repolex:parseStatus": "metadata_complete",
-  "repolex:parsedAt": "2026-09-28T23:21:32.384890+00:00",
+  "repolex:parsedAt": "2026-09-28T23:41:08.163907+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "zone.js-0.16.0"
 }
